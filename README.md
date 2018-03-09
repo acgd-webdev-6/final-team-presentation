@@ -1,7 +1,7 @@
 ---
 summary: 'Present & demonstrate the final, fully working, web app prototype to the teacher.'
 time: '1 hour'
-deliverables: 'Complete UX documentation'
+deliverables: 'Complete web app prototype'
 ---
 
 # Final team presentation
